@@ -39,10 +39,3 @@
 ### 참여자
 
 [김희열](https://github.com/herekim), [노예찬](https://github.com/noy3928), 우경준, 이영규
-
-### 1주차 주제
-
-김희열: 재사용 가능한 컴포넌트  
-노예찬: HTTP변천사(탄생부터 1.1버전의 keep-alive, pipeline까지)
-우경준:  
-이영규:
